@@ -2,9 +2,6 @@
 
 <h3>Extension Description</h3>
 - This extension generates random jokes through an api call. 
-<br><br>
-<h3>Screenshots</h3>
-
 
 
   <br><br>
