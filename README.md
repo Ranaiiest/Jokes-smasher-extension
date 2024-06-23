@@ -3,4 +3,14 @@
 <h4>Extension Description
 - This extension generates random jokes through an api call. 
 <br><br>
+## Installation Instructions
+
+- Clone this repository.
+- Open Chrome and navigate to `chrome://extensions/`.
+- Click the toggle in the upper-right corner marked "Developer Mode".
+- You should then see three new buttons towards the top of your screen.
+- Click "Load Unpacked", and then select the folder containing this repository.
+- You can then turn off Developer Mode.
+- You are now good to go.
+
 
