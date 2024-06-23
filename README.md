@@ -1,9 +1,13 @@
 # Jokes-smasher-extension
 
-<h4>Extension Description
+<h3>Extension Description</h3>
 - This extension generates random jokes through an api call. 
 <br><br>
-## Installation Instructions
+<h3>Screenshots</h3>
+
+
+  <br><br>
+<h3>Installation Instructions</h3>
 
 - Clone this repository.
 - Open Chrome and navigate to `chrome://extensions/`.
